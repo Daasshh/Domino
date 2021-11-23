@@ -1,0 +1,17 @@
+com/csf/oop/domino/api/impl/SimpleBotPlayer.class
+com/csf/oop/domino/Helpers/JsonHelper.class
+com/csf/oop/domino/game/Game$1.class
+com/csf/oop/domino/game/PlayerMove.class
+com/csf/oop/domino/game/PlayerInGame.class
+com/csf/oop/domino/api/impl/SimpleBotPlayer$SimpleBotPlayerStrategy.class
+com/csf/oop/domino/api/PlayerStrategy.class
+com/csf/oop/domino/domain/GameSide.class
+com/csf/oop/domino/game/Game.class
+com/csf/oop/domino/example/Main.class
+com/csf/oop/domino/game/Round.class
+com/csf/oop/domino/model/Domino.class
+com/csf/oop/domino/game/DominoWithExposedSide.class
+com/csf/oop/domino/domain/PositionInGame.class
+com/csf/oop/domino/domain/GameSide$1.class
+com/csf/oop/domino/model/GameRules.class
+com/csf/oop/domino/model/Player.class

@@ -1,0 +1,14 @@
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/domain/GameSide.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/game/DominoWithExposedSide.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/api/impl/SimpleBotPlayer.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/api/PlayerStrategy.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/Helpers/JsonHelper.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/example/Main.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/game/Game.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/game/PlayerInGame.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/model/GameRules.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/game/PlayerMove.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/model/Domino.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/domain/PositionInGame.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/game/Round.java
+/home/eugene/Документы/DEV/Domino-master/src/main/java/com/csf/oop/domino/model/Player.java
